@@ -1,5 +1,4 @@
 ﻿using MyShop.Core.Contracts;
-using MyShop.Core.Contracts.InMemory;
 using MyShop.Core.Models;
 using MyShop.DataAccess.InMemory;
 using System;

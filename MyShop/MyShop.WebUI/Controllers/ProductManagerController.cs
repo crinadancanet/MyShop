@@ -7,7 +7,6 @@ using MyShop.Core.Models;
 using MyShop.DataAccess.InMemory;
 using MyShop.Core.ViewModels;
 using MyShop.Core.Contracts;
-using MyShop.Core.Contracts.InMemory;
 using System.IO;
 
 namespace MyShop.WebUI.Controllers
